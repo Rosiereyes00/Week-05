@@ -4,7 +4,7 @@ class Car {
         this.model = model;
         this.year = year;
     }
-//bhu ghfuehgfhngufehgre
+
     describe() {
         return `${this.year} ${this.make} ${this.model}`;
     }
